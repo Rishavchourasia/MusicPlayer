@@ -120,3 +120,7 @@ nav ul li{
       background-color: red;
     }
   }
+
+  .text-uppercase {
+    color: aqua;
+  }
